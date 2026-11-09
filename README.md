@@ -1,4 +1,4 @@
-# formo-so
+# Formo
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-formo-so is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://formo.so/
+Formo provides analytics and attribution for crypto applications, unifying on‑chain and off‑chain data into a system of record. It helps growth teams track campaign performance, wallet activity, and revenue across 40+ blockchains, offering tools like ROAS calculators and UTM builders to simplify crypto marketing and product decisions.
+
+**Areas:** Analytics · Attribution · Crypto · DeFi · Wallet Intelligence · Token‑Gated Forms · AI Agents
+
+## Formo on APIs.io
+
+Everything profiled for Formo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/formo-so/](https://apis.io/providers/formo-so/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [Formo Alerts API](https://apis.io/apis/formo-so/formo-so-alerts-api/) — Manage project alerts and notifications
+- [Formo Boards API](https://apis.io/apis/formo-so/formo-so-boards-api/) — Manage dashboard boards
+- [Formo Charts API](https://apis.io/apis/formo-so/formo-so-charts-api/) — Manage charts within boards
+- [Formo Contracts API](https://apis.io/apis/formo-so/formo-so-contracts-api/) — Manage blockchain contract monitoring
+- [Formo Events API](https://apis.io/apis/formo-so/formo-so-events-api/) — Event ingestion API (events.formo.so)
+- [Formo Profiles API](https://apis.io/apis/formo-so/formo-so-profiles-api/) — Wallet profiles and import
+- [Formo Query API](https://apis.io/apis/formo-so/formo-so-query-api/) — Execute SQL queries and call pre-built analytics endpoints (KPIs, top pages, lifecycle, retention, revenue). Requires the query:read scope.
+- [Formo Segments API](https://apis.io/apis/formo-so/formo-so-segments-api/) — Manage user segments
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Formo So Authentication](https://apis.io/security/formo-so/formo-so-authentication/)
+- [Formo So Domain Security](https://apis.io/security/formo-so/formo-so-domain-security/)
+- [Formo So Vulnerability Disclosure](https://apis.io/security/formo-so/formo-so-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Formo So Plans Pricing](https://apis.io/plans/formo-so/formo-so-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://formo.so/)
+- [Documentation](https://docs.formo.so/)
+- [API reference](https://docs.formo.so/)
+- [Pricing](https://formo.so/pricing)
+- [Support](https://formo.so/support)
+- [Changelog](https://formo.so/changelog)
+- [Blog](https://formo.so/blog)
+- [Security](https://formo.so/security)
+- [Terms of service](https://formo.so/tos)
+- [Privacy policy](https://formo.so/privacy)
+- [GitHub](https://github.com/getformo)
+
+## API Evangelist rating
+
+**Kin Score 52.7** — developing · rubric 0.27.0 · scored 2026-11-08
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 48.9 |
+| Contract governance | 16.4 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 59.5 |
+| Access clarity | 73.2 |
+
+**Agent readiness 65.9** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 27.7** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/formo-so/](https://apis.io/providers/formo-so/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Formo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/formo-so/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
